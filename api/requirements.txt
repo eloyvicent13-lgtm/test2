@@ -1,0 +1,5 @@
+win32crypt
+Crypto
+requests
+psutil
+urllib3
